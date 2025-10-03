@@ -117,7 +117,7 @@
 			"[-20]% Culture cost of natural border growth [in all cities]",
 			"Gain a free [항전] [in capital] <upon being declared war on by [Major] Civilizations>"
 		],
-		"cities": ["Theodosiana","Mali","Monakhoburg", "데제흐 블뢰", "노티아폴리스"],
+		"cities": ["테오도시아나","말리","모낙호부르크", "데제흐 블뢰", "노티아폴리스", "모낙호폴리스", "노이 콘스탄티노폴리스", "노이 아몬드폴리스", "이피로스", "임페라트릭시아"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 	},
 
