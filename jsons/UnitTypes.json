@@ -16,5 +16,9 @@
 	{
 		"name": "LandCarrier",
         "movementType": "Land"
+	},
+	{
+		"name": "Granadier",
+		"movementType": "Land",
 	}
 ]
